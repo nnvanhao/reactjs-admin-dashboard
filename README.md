@@ -1,2 +1,2 @@
 # reactjs-admin-dashboard
-React - Redux Saga for admin dashboard structure template
+ReactJS - Redux Saga for admin dashboard structure template
